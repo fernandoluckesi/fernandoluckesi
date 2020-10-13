@@ -15,8 +15,8 @@
 <a target="_blank" href="mailto:arycleniobarros@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="images/facebook.png">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a target="_blank" href="">
+  <img align="left" alt="Facebook" width="22px" src="images/facebook.png" />
 </a>
 Linguagens que você manja
 
