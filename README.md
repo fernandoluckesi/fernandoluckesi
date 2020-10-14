@@ -78,4 +78,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Fernando Luckesi's github stats](https://github-readme-stats.vercel.app/api?username=fernandoluckesi)
+![Fernando Luckesi github stats](https://github-readme-stats.vercel.app/api?username=fernandoluckesi)
