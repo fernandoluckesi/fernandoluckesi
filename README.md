@@ -50,8 +50,6 @@ fernando.luckesi94@gmail.com
 
 **Caso queira saber mais sobre mim ou perguntar qualquer outra coisa, fique à vontade para me contatar!**
 
-<br/>
-
 ## Hard Skills:
 
 <code><img width="60px" src="images/html.svg"></code>
