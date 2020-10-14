@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <a target="_blank" href="https://github.com/fernandoluckesi">
-  <img align="left" alt="GitHub" width="40px" src="images/linkedin.png" />
+  <img align="left" alt="GitHub" width="40px" src="images/linkedin.svg" />
 </a>
 <a target="_blank" href="https://br.linkedin.com/in/fernando-luckesi">
-  <img align="left" alt="LinkdeIn" width="40px" src="images/github.png" />
+  <img align="left" alt="LinkdeIn" width="40px" src="images/github.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/fernandoluckesi/">
-  <img align="left" alt="Instagram" width="40px" src="images/instagram.png" />
+  <img align="left" alt="Instagram" width="40px" src="images/instagram.svg" />
 </a>
 
 <!--
