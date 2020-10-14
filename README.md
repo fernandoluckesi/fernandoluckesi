@@ -49,6 +49,18 @@ Olá, me chamo Fernando Luckesi, sou de São Paulo, Brasil e sou estudante de **
 fernando.luckesi94@gmail.com
 
 **Caso queira saber mais sobre mim ou perguntar qualquer outra coisa, fique à vontade para me contatar!**
+
+## Hard Skills:
+
+<code><img height="20" src="images/html.svg"></code>
+<code><img height="20" src="images/css.svg"></code>
+<code><img height="20" src="images/js.svg"></code>
+<code><img height="20" src="images/react.svg"></code>
+<code><img height="20" src="images/bootstrap.png"></code>
+<code><img height="20" src="images/adobexd.png"></code>
+<code><img height="20" src="images/linux.svg"></code>
+<code><img height="20" src="images/git.svg"></code>
+
 <!--
 **fernandoluckesi/fernandoluckesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
