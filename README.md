@@ -41,12 +41,14 @@ Olá, me chamo Fernando Luckesi, sou de São Paulo, Brasil e sou estudante de **
   <a target="_blank" href="https://www.instagram.com/fernandoluckesi/">
     <img align="left" alt="Instagram" width="40px" src="images/instagram.svg" />
   </a>
+  <br/>
+  <br/>
   
 ### Email:
 
 fernando.luckesi94@gmail.com
 
-**Caso queira saber mais sobre mim ou perguntar qualquer outra coisa, fique à vontade para me contatar**
+**Caso queira saber mais sobre mim ou perguntar qualquer outra coisa, fique à vontade para me contatar!**
 <!--
 **fernandoluckesi/fernandoluckesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
