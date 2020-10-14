@@ -52,14 +52,14 @@ fernando.luckesi94@gmail.com
 
 ## Hard Skills:
 
-<code><img height="20" src="images/html.svg"></code>
-<code><img height="20" src="images/css.svg"></code>
-<code><img height="20" src="images/js.svg"></code>
-<code><img height="20" src="images/react.svg"></code>
-<code><img height="20" src="images/bootstrap.png"></code>
-<code><img height="20" src="images/adobexd.png"></code>
-<code><img height="20" src="images/linux.svg"></code>
-<code><img height="20" src="images/git.svg"></code>
+<code><img width="40px" src="images/html.svg"></code>
+<code><img width="40px" src="images/css.svg"></code>
+<code><img width="40px" src="images/js.svg"></code>
+<code><img width="40px" src="images/react.svg"></code>
+<code><img width="40px" src="images/bootstrap.png"></code>
+<code><img width="40px" src="images/adobexd.png"></code>
+<code><img width="40px" src="images/linux.svg"></code>
+<code><img width="40px" src="images/git.svg"></code>
 
 <!--
 **fernandoluckesi/fernandoluckesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
