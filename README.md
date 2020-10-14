@@ -1,4 +1,4 @@
-# 👋 Hello World!
+# Hello World!
 
 ---
 
@@ -24,8 +24,13 @@ Olá, me chamo Fernando Luckesi, sou de São Paulo, Brasil e sou estudante de **
 
 * Atualmente estou no módulo de Back-End no curso da [Trybe](https://www.betrybe.com), aprendendo Banco de Dados com MySQL e MongoDB e no Back-End o framework Express.
 
-* Minha grande paixão é Front-End. E estudo cada vez mais para poder desenvolver um site, que além de um layout atrativo, também é intuitivo e de fácil uso para o usuário, tornando a navegação uma experiência agradável à ele.
+* Minha grande paixão é **Front-End**. E estudo cada vez mais para poder desenvolver um site, que além de um layout atrativo, também é intuitivo e de fácil uso para o usuário, tornando a navegação uma experiência agradável à ele.
 
+* Estudo para evoluir como pessoa e também conquistar oportunidades que vão me ajudar a decolar minha carreira como desenvolvedor.
+
+## Meus contatos
+
+### Redes Sociais:
 
   <a target="_blank" href="https://github.com/fernandoluckesi">
     <img align="left" alt="GitHub" width="40px" src="images/linkedin.svg" />
@@ -36,8 +41,12 @@ Olá, me chamo Fernando Luckesi, sou de São Paulo, Brasil e sou estudante de **
   <a target="_blank" href="https://www.instagram.com/fernandoluckesi/">
     <img align="left" alt="Instagram" width="40px" src="images/instagram.svg" />
   </a>
+  
+### Email:
 
+fernando.luckesi94@gmail.com
 
+**Caso queira saber mais sobre mim ou perguntar qualquer outra coisa, fique à vontade para me contatar**
 <!--
 **fernandoluckesi/fernandoluckesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
