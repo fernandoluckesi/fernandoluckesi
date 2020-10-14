@@ -50,16 +50,20 @@ fernando.luckesi94@gmail.com
 
 **Caso queira saber mais sobre mim ou perguntar qualquer outra coisa, fique à vontade para me contatar!**
 
+<br/>
+
 ## Hard Skills:
 
-<code><img width="40px" src="images/html.svg"></code>
-<code><img width="40px" src="images/css.svg"></code>
-<code><img width="40px" src="images/js.svg"></code>
-<code><img width="40px" src="images/react.svg"></code>
-<code><img width="40px" src="images/bootstrap.png"></code>
-<code><img width="40px" src="images/adobexd.png"></code>
-<code><img width="40px" src="images/linux.svg"></code>
-<code><img width="40px" src="images/git.svg"></code>
+<code><img width="60px" src="images/html.svg"></code>
+<code><img width="60px" src="images/css.svg"></code>
+<code><img width="60px" src="images/js.svg"></code>
+<code><img width="60px" src="images/react.svg"></code>
+<code><img width="60px" src="images/bootstrap.png"></code>
+<code><img width="60px" src="images/adobexd.png"></code>
+<code><img width="60px" src="images/linux.svg"></code>
+<code><img width="60px" src="images/git.svg"></code>
+
+<br/>
 
 <!--
 **fernandoluckesi/fernandoluckesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
