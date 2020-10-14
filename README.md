@@ -7,7 +7,7 @@
   <img align="left" alt="LinkdeIn" width="40px" src="images/linkedin.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/fernandoluckesi/">
-  <img align="left" alt="Instagram" width="40px" src="images/instagram.png" />
+  <img align="left" alt="Instagram" width="40px" src="images/instagram.svg" />
 </a>
 
 <!--
