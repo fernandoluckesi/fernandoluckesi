@@ -2,7 +2,7 @@
 
 ---
 
-Olá, me chamo Fernando Luckesi, sou de São Paulo, Brasil e sou estudante de **Densenvolvimento Web** e atualmente faço curso de Desenvolvedor Web Full-Stack na [Trybe](https://www.betrybe.com).
+Olá, me chamo Fernando Luckesi, sou de São Paulo, Brasil e terminei ocurso de **Densenvolvimento Web Full-Stack* na [Trybe](https://www.betrybe.com).
 
 ## O que gosto:
 
@@ -21,8 +21,6 @@ Olá, me chamo Fernando Luckesi, sou de São Paulo, Brasil e sou estudante de **
 * Coisas que eram para funcionar mas não funcionam como esperado. (Na maioria das vezes não desisto até fazer funcionar).
 
 ## Meus interesses:
-
-* Atualmente estou no módulo de Back-End no curso da [Trybe](https://www.betrybe.com), aprendendo Banco de Dados com MySQL e MongoDB e no Back-End o framework Express.
 
 * Minha grande paixão é **Front-End**. E estudo cada vez mais para poder desenvolver um site, que além de um layout atrativo, também é intuitivo e de fácil uso para o usuário, tornando a navegação uma experiência agradável à ele.
 
