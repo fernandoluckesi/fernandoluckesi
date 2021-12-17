@@ -54,14 +54,16 @@ fernando.luckesi94@gmail.com
 
 ## Hard Skills:
 
-<code><img width="60px" src="images/html.svg"></code>
-<code><img width="60px" src="images/css.svg"></code>
-<code><img width="60px" src="images/js.svg"></code>
-<code><img width="60px" src="images/react.svg"></code>
-<code><img width="60px" src="images/bootstrap.png"></code>
-<code><img width="60px" src="images/adobexd.png"></code>
-<code><img width="60px" src="images/linux.svg"></code>
-<code><img width="60px" src="images/git.svg"></code>
+
+* Git
+* HTML, CSS, Javascript e TypeScript
+* React, React Native e Angular
+* Bootstrap e Material UI
+* Figma e  Adobe XD
+* Java e Python
+* Spring Boot
+* MySQL e Mongodb
+
 
 <br/>
 
