@@ -54,7 +54,6 @@ fernando.luckesi94@gmail.com
 
 ## Hard Skills:
 
-
 * Git
 * HTML, CSS, Javascript e TypeScript
 * React, React Native e Angular
@@ -63,7 +62,14 @@ fernando.luckesi94@gmail.com
 * Java e Python
 * Spring Boot
 * MySQL e Mongodb
+* 
+## Soft Skills:
 
+* Resiliência
+* Trabalho em equipe
+* Empatia
+* Pensamento crítico
+* Criatividade
 
 <br/>
 
