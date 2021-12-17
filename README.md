@@ -2,7 +2,7 @@
 
 ---
 
-Olá, me chamo Fernando Luckesi, sou de São Paulo, Brasil e terminei ocurso de **Densenvolvimento Web Full-Stack* na [Trybe](https://www.betrybe.com).
+Olá, me chamo Fernando Luckesi, sou de São Paulo, Brasil e terminei ocurso de **Densenvolvimento Web Full-Stack** na [Trybe](https://www.betrybe.com).
 
 ## O que gosto:
 
