@@ -12,6 +12,8 @@ Olá, me chamo Fernando Luckesi, sou de São Paulo, Brasil e terminei ocurso de 
 
 * Assistir séries e filmes (principalmente de heróis).
 
+* Tocar violão
+
 ## O que não gosto:
 
 * Uva passa.
@@ -22,7 +24,9 @@ Olá, me chamo Fernando Luckesi, sou de São Paulo, Brasil e terminei ocurso de 
 
 ## Meus interesses:
 
-* Minha grande paixão é **Front-End**. E estudo cada vez mais para poder desenvolver um site, que além de um layout atrativo, também é intuitivo e de fácil uso para o usuário, tornando a navegação uma experiência agradável à ele.
+* Minha grande paixão é desenvolver tanto no **Front-End** quanto no **Back-end** de uma aplicação.
+
+* E claro, em algumas linguagens eu tenho mais afinidade para desenvolver do que outras. E isso se deve  o fato deu  já ter trabalhado com tal linguaguem profissionalmente ou até mesmo para estudos. E essas  linguagens e frameworks são: **Javascript, Java, Python, Typescript, React, React Native, Angular e Spring boot.
 
 * Estudo para evoluir como pessoa e também conquistar oportunidades que vão me ajudar a decolar minha carreira como desenvolvedor.
 
